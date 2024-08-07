@@ -2,12 +2,12 @@
     {
         "name": "SentinelX",
         "uuid": "8fe16d79-f94d-4293-a446-f5d72275ca6c",
-        "prior": 2
+        "prior": 1
     },
     {
         "name": "GuardianX",
         "uuid": "476bfd31-2bfe-4bbf-a0de-fee087555ad8",
-        "prior": 1
+        "prior": 2
     },
     {
         "name": "ProtectorX",
