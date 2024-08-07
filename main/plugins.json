@@ -1,0 +1,22 @@
+[
+    {
+        "name": "SentinelX",
+        "uuid": "8fe16d79-f94d-4293-a446-f5d72275ca6c",
+        "prior": 1
+    },
+    {
+        "name": "GuardianX",
+        "uuid": "476bfd31-2bfe-4bbf-a0de-fee087555ad8",
+        "prior": 2
+    },
+    {
+        "name": "ProtectorX",
+        "uuid": "4733f82a-9330-46b6-9b2b-634e646270db",
+        "prior": 3
+    },
+    {
+        "name": "Coins",
+        "uuid": "8bdb5d98-5d28-4b21-a68f-6457fc2089f4",
+        "prior": 4
+    }
+]
