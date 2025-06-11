@@ -10,18 +10,43 @@
         "prior": 2
     },
     {
-        "name": "RewarderX",
+        "name": "TagsX",
         "uuid": "4733f82a-9330-46b6-9b2b-634e646270db",
         "prior": 3
     },
     {
-        "name": "ConsentChecker",
+        "name": "ChatEnhancerX",
         "uuid": "8bdb5d98-5d28-4b21-a68f-6457fc2089f4",
         "prior": 4
     },
     {
-        "name": "StatMasterX",
+        "name": "ConsentChecker",
         "uuid": "27e30e3f-3fb7-4550-9638-1823b421e838",
         "prior": 5
+    },
+    {
+        "name": "LegacyTeamX",
+        "uuid": "addf0b9f-85fa-4496-a245-386c14ba1617",
+        "prior": 6
+    },
+    {
+        "name": "StatMasterX",
+        "uuid": "55524879-23aa-4d91-8c16-827f8c6b1c83",
+        "prior": 7
+    },
+    {
+        "name": "RewarderX",
+        "uuid": "17c524fa-f8a2-44be-9acb-b947d4b0931d",
+        "prior": 8
+    },
+    {
+        "name": "PlotsX",
+        "uuid": "245355ff-a128-40d1-bfe8-d4313fd39ee2",
+        "prior": 9
+    },
+    {
+        "name": "TeamX",
+        "uuid": "e2de06ca-40d7-4ea3-9dfb-58063c499ff9",
+        "prior": 10
     }
 ]
