@@ -48,5 +48,10 @@
         "name": "TeamX",
         "uuid": "e2de06ca-40d7-4ea3-9dfb-58063c499ff9",
         "prior": 10
+    },
+    {
+        "name": "SkyChunks",
+        "uuid": "9ee03523-b187-4cc6-834e-d67f97b90753",
+        "prior": 11
     }
 ]
