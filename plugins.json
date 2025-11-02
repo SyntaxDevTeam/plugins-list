@@ -53,5 +53,10 @@
         "name": "FoliEssentials",
         "uuid": "9ee03523-b187-4cc6-834e-d67f97b90753",
         "prior": 11
+    },
+    {
+        "name": "GraveDiggerX",
+        "uuid": "9cfdad41-7f23-4d8c-8b49-9854d7629c69",
+        "prior": 12
     }
 ]
