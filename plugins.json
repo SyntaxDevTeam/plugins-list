@@ -58,5 +58,10 @@
         "name": "GraveDiggerX",
         "uuid": "9cfdad41-7f23-4d8c-8b49-9854d7629c69",
         "prior": 12
+    },
+    {
+        "name": "DscBridgeAPI",
+        "uuid": "41fe3447-99e5-41f0-a9e3-a103e5e0947d",
+        "prior": 13
     }
 ]
