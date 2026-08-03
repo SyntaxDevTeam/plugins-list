@@ -63,5 +63,10 @@
         "name": "DscBridgeAPI",
         "uuid": "41fe3447-99e5-41f0-a9e3-a103e5e0947d",
         "prior": 13
+    },
+    {
+        "name": "HorseManagerX"
+        "uuid": "019fbbe9-d48c-776f-a84e-80426f9f40a2"
+        "prior": 14
     }
 ]
