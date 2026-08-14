@@ -68,5 +68,10 @@
         "name": "HorseManagerX",
         "uuid": "019fbbe9-d48c-776f-a84e-80426f9f40a2",
         "prior": 14
+    },
+    {
+        "name": "SentinelX",
+        "uuid": "f06a1b9a-c2b9-4404-a5da-7be6b8ae70ab",
+        "prior": 15
     }
 ]
