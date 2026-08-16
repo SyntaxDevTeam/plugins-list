@@ -73,5 +73,10 @@
         "name": "SentinelX",
         "uuid": "f06a1b9a-c2b9-4404-a5da-7be6b8ae70ab",
         "prior": 15
+    },
+    {
+        "name": "AuthGatewayX",
+        "uuid": "01a009a5-8643-750a-a28d-c4af5e8300c0",
+        "prior": 16
     }
 ]
