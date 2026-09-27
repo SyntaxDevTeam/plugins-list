@@ -81,17 +81,17 @@
     },
     {
         "name": "CompetitionX",
-        "uuid": "01a0df30-481a-705a-95e0-a696f0000c68"
+        "uuid": "01a0df30-481a-705a-95e0-a696f0000c68",
         "prior": 17
     },
     {
         "name": "StableManagerX",
-        "uuid": "01a0df31-edd8-721b-bd36-3f8486781902"
+        "uuid": "01a0df31-edd8-721b-bd36-3f8486781902",
         "prior": 18
     },
     {
         "name": "plHideX",
-        "uuid": "01a0df33-42a8-76a8-9b0c-2cddb880fe46"
+        "uuid": "01a0df33-42a8-76a8-9b0c-2cddb880fe46",
         "prior": 19
     }
 ]
